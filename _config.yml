@@ -1,1 +1,5 @@
-theme: jekyll-theme-cayman
+title: "JanPro"
+description: "JanPro's website"
+url: "https://janpro.dev"
+theme: alembic
+baseurl: ""
