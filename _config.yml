@@ -1,5 +1,5 @@
 title: "JanPro"
 description: "JanPro's website"
 url: "https://janpro.dev"
-theme: alembic
+theme: jekyll-theme-hacker 
 baseurl: ""
