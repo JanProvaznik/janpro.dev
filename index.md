@@ -7,4 +7,4 @@ this is my [piano](https://memepiano.janpro.dev/)
 
 You can contact me at [janpro@janpro.dev](mailto:janpro@janpro.dev) [PGP pubkey](publickey.janpro%40janpro.dev-dfd3b2c770284933f795d50be24a40972c22a12d.asc)
 
-[LinkedIn](https://linkedin.com/in/janprovaznik) serves as my CV.
+[LinkedIn](https://linkedin.com/in/janprovaznik) serves as my CV, if you want to talk to me book a meeting with [Calendly!](https://calendly.com/janprov)
