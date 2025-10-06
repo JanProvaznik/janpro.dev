@@ -15,3 +15,7 @@ Examples I read and enjoyed:
 - Mother of Learning, nobody103
 - Harry Potter and the Methods of Rationality
 - Worth the Candle
+- Pokemon and the Origin of species
+- Planecrash
+
+My favorite method of media consumption are podcasts/audiobooks.
